@@ -1,9 +1,18 @@
-# sistema_de_recomendacao_ze_delivery
-Sistema de Recomendação Híbrido para Produtos - Zé Delivery
-Este projeto implementa um sistema de recomendação híbrido para produtos utilizando técnicas de Filtragem Colaborativa e Conteúdo Baseado em Similaridade. O sistema foi desenvolvido para recomendar produtos no estilo do Zé Delivery, com foco em otimizar a experiência do usuário sugerindo produtos baseados em suas preferências e comportamento de outros usuários.
 
+## Sistema de Recomendação Ze Delivery 
 
+This repository contains the source code for a recommendation system designed to enhance the customer experience and increase sales for a food delivery platform. 
 
+### Main Features
 
+The system leverages collaborative filtering to recommend items to customers based on their past orders and preferences. It also incorporates content-based filtering, which suggests items based on the customer's past interactions with the platform.
 
-Nota: Este projeto utiliza dados fictícios para simular as interações entre usuários e produtos. Isso pode impactar o desempenho do sistema em comparação com um ambiente de produção real, onde dados reais e comportamento de usuários seriam utilizados para ajustar o modelo.
+### Technical Details
+
+The system is built using Python and utilizes the Pandas library for data manipulation and analysis. The recommendation engine is implemented using a collaborative filtering algorithm, specifically the Matrix Factorization algorithm. This algorithm decomposes the user-item interaction matrix into latent factors, which are then used to predict user preferences.
+
+The system also includes a user interface for displaying recommendations. This interface allows users to view their recommendations and interact with the system.
+
+### Final Considerations
+
+The system's performance can be further improved by incorporating more sophisticated recommendation algorithms and by expanding the data set.
