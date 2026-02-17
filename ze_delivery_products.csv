@@ -1,0 +1,51 @@
+product_id,product_name,category,price,brand,alcohol_content
+1,Skol 255ml,Cerveja,8.50,Skol,4.5
+2,Coca-Cola 293ml,Refrigerante,9.00,Coca-Cola,0.0
+3,Heineken 426ml,Cerveja,9.50,Heineken,5.0
+4,Pepsi 207ml,Cerveja,8.00,Pepsi,4.5
+5,Coca-Cola 448ml,Refrigerante,9.00,Coca-Cola,0.0
+6,Heineken 284ml,Cerveja,8.50,Heineken,5.0
+7,Skol 432ml,Cerveja,7.50,Skol,4.5
+8,Red Bull 484ml,Energético,10.00,Red,0.0
+9,Brahma 229ml,Cerveja,8.50,Brahma,4.5
+10,Água Crystal 360ml,Cerveja,5.00,Água,5.0
+11,Pepsi 280ml,Cerveja,9.00,Pepsi,4.5
+12,Heineken 504ml,Cerveja,9.00,Heineken,5.0
+13,Pepsi 326ml,Energético,10.00,Pepsi,0.0
+14,Heineken 414ml,Cerveja,9.50,Heineken,5.0
+15,Skol 304ml,Cerveja,8.00,Skol,4.5
+16,Brahma 543ml,Cerveja,9.00,Brahma,4.5
+17,Heineken 204ml,Cerveja,9.00,Heineken,5.0
+18,Heineken 237ml,Cerveja,9.00,Heineken,5.0
+19,Brahma 378ml,Cerveja,9.50,Brahma,4.5
+20,Coca-Cola 478ml,Refrigerante,9.00,Coca-Cola,0.0
+21,Água Crystal 470ml,Cerveja,5.00,Água,5.0
+22,Heineken 268ml,Refrigerante,9.00,Heineken,0.0
+23,Água Crystal 483ml,Cerveja,5.00,Água,5.0
+24,Skol 304ml,Cerveja,8.50,Skol,4.5
+25,Red Bull 226ml,Energético,10.00,Red,0.0
+26,Heineken 370ml,Cerveja,9.00,Heineken,5.0
+27,Coca-Cola 482ml,Refrigerante,9.00,Coca-Cola,0.0
+28,Heineken 553ml,Cerveja,9.50,Heineken,5.0
+29,Pepsi 275ml,Cerveja,8.00,Pepsi,4.5
+30,Skol 220ml,Cerveja,7.50,Skol,4.5
+31,Água Crystal 252ml,Refrigerante,5.00,Água,0.0
+32,Coca-Cola 517ml,Cerveja,9.00,Coca-Cola,2.84
+33,Red Bull 290ml,Energético,10.00,Red,0.0
+34,Skol 600ml,Cerveja,9.00,Skol,4.5
+35,Água Crystal 327ml,Refrigerante,5.00,Água,0.0
+36,Heineken 395ml,Cerveja,9.00,Heineken,5.0
+37,Coca-Cola 379ml,Refrigerante,9.00,Coca-Cola,0.0
+38,Brahma 314ml,Cerveja,9.50,Brahma,4.5
+39,Red Bull 235ml,Energético,10.00,Red,0.0
+40,Coca-Cola 547ml,Refrigerante,9.00,Coca-Cola,0.0
+41,Heineken 333ml,Cerveja,9.00,Heineken,5.0
+42,Heineken 505ml,Cerveja,9.00,Heineken,5.0
+43,Skol 423ml,Energético,10.00,Skol,0.0
+44,Coca-Cola 495ml,Refrigerante,9.00,Coca-Cola,0.0
+45,Pepsi 475ml,Cerveja,9.00,Pepsi,4.5
+46,Skol 519ml,Cerveja,8.50,Skol,4.5
+47,Água Crystal 353ml,Energético,10.00,Água,0.0
+48,Skol 406ml,Cerveja,9.00,Skol,4.5
+49,Coca-Cola 540ml,Refrigerante,9.00,Coca-Cola,0.0
+50,Pepsi 491ml,Refrigerante,9.00,Pepsi,0.0
