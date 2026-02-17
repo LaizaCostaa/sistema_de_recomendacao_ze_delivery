@@ -1,23 +1,21 @@
+Sistema de Recomendação para E-commerce (Zé Delivery)
 
-### Overview
-The recommendation system leverages both collaborative filtering and content-based filtering to suggest products to customers based on their previous orders and interactions. This hybrid approach is designed to provide personalized and relevant recommendations that can improve customer satisfaction and drive sales.
+Visão geral:
 
-### Key Features
-- Collaborative Filtering: Uses historical order data and user preferences to identify patterns and suggest products.
-- Content-Based Filtering: Analyzes previous interactions to recommend items that are similar to those a user has engaged with.
-- User Interface: Offers a simple interface where users can view and interact with their personalized recommendations.
+Este projeto implementa um sistema de recomendação de produtos para um cenário de e-commerce, utilizando dados de interações implícitas entre usuários e produtos.
+O objetivo é comparar diferentes abordagens de recomendação e avaliar o impacto de cada uma nas métricas de ranking, evoluindo de modelos simples até um modelo híbrido que combina sinais colaborativos e de conteúdo.
 
-### Technical Details
+Problema de negócio:
 
-- Programming Language: Python
-- Main Libraries:
-    - Pandas for data manipulation and analysis.
-    - Algorithms for collaborative filtering (e.g., Matrix Factorization) to decompose the user-item interaction matrix.
-    - Matplotlib for data visualization.
-- Hybrid Approach: Combines the strengths of collaborative and content-based filtering techniques to enhance recommendation accuracy.
+Em plataformas de e-commerce, a recomendação de produtos é fundamental para:
 
-### Future Improvements
-- A lgorithm Enhancement: Explore more advanced recommendation techniques and combine multiple algorithms to further improve results.
-- Data Expansion: Integrate additional historical data to enrich the training process of the model.
-- User Interface: Develop an interactive web-based interface for a more user-friendly experience.
+- Aumentar conversão
+- Melhorar a experiência do usuário
+- Reduzir churn
+- Aumentar ticket médio
 
+O desafio é recomendar itens relevantes mesmo quando:
+
+- O usuário tem pouco histórico
+- O catálogo possui muitos produtos
+- Os dados são implícitos (cliques, carrinho, compras)
